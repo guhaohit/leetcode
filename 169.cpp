@@ -1,3 +1,4 @@
+//经典的题
 class Solution {
 public:
     int majorityElement(vector<int> &num) {
